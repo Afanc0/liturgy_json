@@ -1,1 +1,1 @@
-{ "reading": "Ex32:15-24,30-34", "gospel": "Mt13:31-35" }
+{ "DateID": "Text(MonthOfYear)' 'Value(DayOfMonth)','' 'Value(YearOfEra,4,19,EXCEEDS_PAD)", "ReadingVerse": "Ex32:15-24,30-34", "GospelVerse": "Mt13:31-35" }
